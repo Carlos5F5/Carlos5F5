@@ -13,7 +13,7 @@
 - Comunication
 - Critical Analyst
 - Troubleshooting
--Autodidact
+- Autodidact
 
   
 # 📊 GitHub Stats:
