@@ -1,6 +1,10 @@
 # 💫 About Me
 👨 💻 I am currently a computer systems engineering student. <br>🧠 Despite the university and my young age I have been self-taught to elevate my learning and go further. <br>🔭 I have learned and continue to learn how to use multiple tools to troubleshoot software problems. <br>🌱 I am currently learning Cybersecurity. <br>⚡Fun fact: I accompany the study with the sport, to always have a relaxed mind for the solution of various problems and teamwork.
 
+# Contact me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Carlos Franco) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlos._.franco) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Carlos Franco) 
 
 
 
