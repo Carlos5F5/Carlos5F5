@@ -9,7 +9,7 @@
 
 ## Hecha un vistazo y aprende en mi plataforma
 
-[![PP M HXR](https://ibb.co/ccYxVTNS)](https://ppmaestrohaxorclases.pages.dev/) 
+[![PP M HXR](https://i.postimg.cc/3kpMHDgQ/yrzj979g.jpg)](https://ppmaestrohaxorclases.pages.dev/) 
 
 
 
