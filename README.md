@@ -7,7 +7,9 @@
 
 
 
-## Hecha un vistazo y aprende en mi plataforma
+## Hecha un vistazo y aprende en mi plataforma - PP EL MAESTRO HAXOR
+
+### Click en la imagen 
 
 [![PP M HXR](https://i.postimg.cc/3kpMHDgQ/yrzj979g.jpg)](https://ppmaestrohaxorclases.pages.dev/) 
 
